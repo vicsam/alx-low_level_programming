@@ -22,6 +22,9 @@ void print_numbers(void);
 /* Prototype for the print_most_numbers function */
 void print_most_numbers(void);
 
+/* Prototype for the more_numbers function */
+void more_numbers(void);
+
 
 
 
