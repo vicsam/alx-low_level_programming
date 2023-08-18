@@ -16,6 +16,8 @@ int _isdigit(int c);
 /* Prototype for the mul function */
 int mul(int a, int b);
 
+/* Prototype for the print_numbers function */
+void print_numbers(void);
 
 
 
