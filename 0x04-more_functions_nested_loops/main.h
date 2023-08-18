@@ -10,5 +10,9 @@ void _islower(void);
 /* Prototype for the _isupper function */
 int _isupper(int c);
 
+/* Prototype for the _isdigit function */
+int _isdigit(int c);
+
+
 
 #endif /* MAIN_H */
