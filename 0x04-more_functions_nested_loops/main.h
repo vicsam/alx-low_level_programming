@@ -13,6 +13,10 @@ int _isupper(int c);
 /* Prototype for the _isdigit function */
 int _isdigit(int c);
 
+/* Prototype for the mul function */
+int mul(int a, int b);
+
+
 
 
 #endif /* MAIN_H */
