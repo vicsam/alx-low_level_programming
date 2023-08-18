@@ -24,6 +24,9 @@ void print_most_numbers(void);
 
 /* Prototype for the more_numbers function */
 void more_numbers(void);
+	
+/* Prototype for the print_line function */
+void print_line(int n);
 
 
 
