@@ -34,6 +34,8 @@ void print_diagonal(int n);
 /* Prototype for the print_square function */
 void print_square(int size);
 
+/* Prototype for the print_triangle function */
+void print_triangle(int size);
 
 
 #endif /* MAIN_H */
